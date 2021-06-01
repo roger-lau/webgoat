@@ -1,0 +1,9 @@
+org/owasp/webgoat/plugins/PluginTestHelper.class
+org/owasp/webgoat/plugins/WebGoatIT.class
+org/owasp/webgoat/plugins/PluginTest.class
+org/owasp/webgoat/plugins/TestPlugin.class
+org/owasp/webgoat/util/LabelProviderTest.class
+org/owasp/webgoat/plugins/WebGoatIT$1.class
+org/owasp/webgoat/util/LabelManagerImplTest.class
+org/owasp/webgoat/lessons/AbstractLessonTest.class
+org/owasp/webgoat/lessons/AbstractLessonTest$1.class
